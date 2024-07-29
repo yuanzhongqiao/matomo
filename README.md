@@ -1,125 +1,89 @@
-# Matomo (formerly Piwik) - matomo.org
-
-[![Latest Stable Version](https://poser.pugx.org/matomo/matomo/v/stable)](https://matomo.org/download/)
-[![Latest Unstable Version](https://poser.pugx.org/matomo/matomo/v/unstable)](https://builds.matomo.org/)
-[![License](https://poser.pugx.org/piwik/piwik/license)](https://matomo.org/free-software/)
-
-## Code Status
-
-[![Matomo Tests](https://github.com/matomo-org/matomo/actions/workflows/matomo-tests.yml/badge.svg)](https://github.com/matomo-org/matomo/actions/workflows/matomo-tests.yml)
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/matomo-org/matomo.svg)](http://isitmaintained.com/project/matomo-org/matomo "Percentage of issues still open")
-
-## Description
-
-Matomo is the leading Free/Libre open analytics platform.
-
-Matomo is a full-featured PHP MySQL software program that you download and install on your own webserver.
-At the end of the five-minute installation process, you will be given a JavaScript code.
-Simply copy and paste this tag on websites you wish to track and access your analytics reports in real-time.
-
-Matomo aims to be a Free software alternative to Google Analytics and is already used on more than 1,400,000 websites. Privacy is built-in!
-
-## Mission Statement
-
-> « To create, as a community, the leading international open source digital analytics platform, that gives every user full control of their data. »
-
-Or in short:
-> « Liberate Web Analytics »
-
-## License
-
-Matomo is released under the GPL v3 (or later) license, see [LICENSE](LICENSE).
-
-## Requirements
-
-  * PHP 7.2.5 or greater
-  * MySQL version 5.5 or greater, or MariaDB 
-  * PHP extension pdo and pdo_mysql, or the MySQLi extension
-  * Matomo is OS / server independent
-
-See https://matomo.org/docs/requirements/.
-
-## Install Matomo
-
-  * [Download Matomo](https://matomo.org/download/)
-  * Upload matomo to your webserver
-  * Point your browser to the directory
-  * Follow the steps
-  * Add the given javascript code to your pages
-  * (You may also generate fake data to experiment, by enabling the plugin VisitorGenerator)
-
-See https://matomo.org/docs/installation/.
-
-(When using Matomo for development you need to [install Matomo from the Git repository](https://matomo.org/faq/how-to-install/faq_18271/)).
-
-## Free trial 
-
-If you do not have a server or don't want to host yourself you can use our Matomo Cloud partner service (21 day free trial): https://matomo.org/start-free-analytics-trial/
-
-## Online Demo
-
-Check out the online demo for Matomo at [demo.matomo.cloud](https://demo.matomo.cloud/).
-
-## Changelog
-
-For the list of all tickets closed in the current and past releases, see [matomo.org/changelog/](https://matomo.org/changelog/). For the list of technical changes in the Matomo platform, see [developer.matomo.org/changelog](https://developer.matomo.org/changelog).
-
-## Get involved!
-
-We believe in liberating Web Analytics, providing a free platform for simple and advanced analytics. Matomo was built by dozens of people like you,
-and we need your help to make Matomo better… Why not participate in a useful project today? [Learn how you can contribute to Matomo](https://matomo.org/get-involved).
-
-## Translations
-
-Our translations are managed on [Weblate](https://hosted.weblate.org/engage/matomo/).
-
-[![Translation Status](https://hosted.weblate.org/widgets/matomo/-/horizontal-auto.svg)](https://hosted.weblate.org/engage/matomo/)
-
-## Quality Assurance
-
-The Matomo project uses an ever-expanding comprehensive set of thousands of unit tests and hundreds of automated integration tests, system tests, JavaScript tests, and screenshot UI tests, running on a continuous integration server as part of its software quality assurance. [Learn more](https://developer.matomo.org/guides/tests).
-
-We use [BrowserStack.com](https://www.browserstack.com/) testing tool to help check the Matomo user interface is compatible with many browsers.
-
-## Security
-
-Security is a top priority at Matomo. As potential issues are discovered, we validate, patch and release fixes as quickly as we can. We have a security bug bounty program in place that rewards researchers for finding security issues and disclosing them to us. 
-
-[Learn more](https://matomo.org/security/) or check out our [HackerOne program](https://hackerone.com/matomo).
-
-## Support for Matomo
-
-For **Free support**, post a message in our community forums: [forum.matomo.org](https://forum.matomo.org/)
-
-For **Professional paid support**, purchase a Matomo On-Premises Support Plan: [matomo.org/support-plans](https://matomo.org/support-plans/)  
-
-## Contact
-
-Website: [matomo.org](https://matomo.org)
-
-About us: [matomo.org/team/](https://matomo.org/team/)
-
-Contact us: [matomo.org/contact/](https://matomo.org/contact/)
-
-
-## More information
-
-What makes Matomo unique from the competition:
-
-  * You own your web analytics data: since Matomo is installed on your server, the data is stored in your own database and you can get all the statistics using the powerful Matomo Analytics API.
-
-  * Matomo is a Free Software which can easily be configured to respect your visitors' privacy.
-
-  * Modern, easy to use User Interface: you can fully customize your dashboard, drag and drop widgets and more.
-
-  * Matomo features are built inside plugins: you can add new features and remove the ones you don’t need.
-    You can build your own web analytics plugins or hire a consultant to have your custom feature built-in Matomo.
-
-  * A vibrant international Open community of more than 200,000 active users (tracking even more websites!)
-
-  * Advanced Web Analytics capabilities such as E-commerce Tracking, Goal tracking, Campaign tracking,
-    Custom Variables, Email Reports, Custom Segment Editor, Geo Location, Real-time visits and maps, [and a lot more!](https://matomo.org/feature-overview/)
-
-Documentation and more info on https://matomo.org.
-
-We are together creating the best open analytics platform in the world!
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Matomo (以前称为 Piwik) - matomo.org</font></font></h1><a id="user-content-matomo-formerly-piwik---matomoorg" class="anchor" aria-label="永久链接：Matomo (以前称为 Piwik) - matomo.org" href="#matomo-formerly-piwik---matomoorg"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://matomo.org/download/" rel="nofollow"><img src="https://camo.githubusercontent.com/bc2890c5e5b03a4d3c4639f9a3c682d3d7be8a2bdfb39ed8c6a8d9487a19115b/68747470733a2f2f706f7365722e707567782e6f72672f6d61746f6d6f2f6d61746f6d6f2f762f737461626c65" alt="最新稳定版本" data-canonical-src="https://poser.pugx.org/matomo/matomo/v/stable" style="max-width: 100%;"></a>
+<a href="https://builds.matomo.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/43ed7972cdab3cdd81cd2831e1ba34330a20ad9d1fab300f539581ec58b24dfb/68747470733a2f2f706f7365722e707567782e6f72672f6d61746f6d6f2f6d61746f6d6f2f762f756e737461626c65" alt="最新不稳定版本" data-canonical-src="https://poser.pugx.org/matomo/matomo/v/unstable" style="max-width: 100%;"></a>
+<a href="https://matomo.org/free-software/" rel="nofollow"><img src="https://camo.githubusercontent.com/65af099bc0f94937b4144ff96fea650c74c65fa9e98ed596ba48e380a9cc2d32/68747470733a2f2f706f7365722e707567782e6f72672f706977696b2f706977696b2f6c6963656e7365" alt="执照" data-canonical-src="https://poser.pugx.org/piwik/piwik/license" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码状态</font></font></h2><a id="user-content-code-status" class="anchor" aria-label="永久链接：代码状态" href="#code-status"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://github.com/matomo-org/matomo/actions/workflows/matomo-tests.yml"><img src="https://github.com/matomo-org/matomo/actions/workflows/matomo-tests.yml/badge.svg" alt="Matomo 测试" style="max-width: 100%;"></a>
+<a href="http://isitmaintained.com/project/matomo-org/matomo" title="仍未解决的问题百分比" rel="nofollow"><img src="https://camo.githubusercontent.com/8b44fff955efb8ad9aeaf5685635910f2305a1138706d4e68d3be0cace137a82/687474703a2f2f697369746d61696e7461696e65642e636f6d2f62616467652f6f70656e2f6d61746f6d6f2d6f72672f6d61746f6d6f2e737667" alt="仍未解决的问题百分比" data-canonical-src="http://isitmaintained.com/badge/open/matomo-org/matomo.svg" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">描述</font></font></h2><a id="user-content-description" class="anchor" aria-label="固定链接：描述" href="#description"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Matomo 是领先的免费/自由开放分析平台。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Matomo 是一款功能齐全的 PHP MySQL 软件程序，您可以下载并安装在自己的网络服务器上。在五分钟的安装过程结束时，您将获得一个 JavaScript 代码。只需将此标签复制并粘贴到您希望跟踪的网站上，即可实时访问您的分析报告。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Matomo 旨在成为 Google Analytics 的免费软件替代品，目前已在 1,400,000 多个网站上使用。隐私功能已内置！</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使命宣言</font></font></h2><a id="user-content-mission-statement" class="anchor" aria-label="永久链接：使命宣言" href="#mission-statement"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“以社区形式创建领先的国际开源数字分析平台，让每个用户都能完全控制自己的数据。”</font></font></p>
+</blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">简而言之：</font></font></p>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">« 解放网络分析 »</font></font></p>
+</blockquote>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Matomo 是在 GPL v3（或更高版本）许可证下发布的，请参阅</font></font><a href="/matomo-org/matomo/blob/5.x-dev/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LICENSE</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要求</font></font></h2><a id="user-content-requirements" class="anchor" aria-label="固定链接：要求" href="#requirements"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHP 7.2.5 或更高版本</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MySQL 5.5 或更高版本，或者 MariaDB</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHP 扩展 pdo 和 pdo_mysql，或 MySQLi 扩展</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Matomo 独立于操作系统/服务器</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://matomo.org/docs/requirements/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://matomo.org/docs/requirements/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 Matomo</font></font></h2><a id="user-content-install-matomo" class="anchor" aria-label="永久链接：安装 Matomo" href="#install-matomo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://matomo.org/download/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载 Matomo</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将 matomo 上传到您的网络服务器</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将浏览器指向目录</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">按照步骤</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将给定的 javascript 代码添加到您的页面</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（您也可以通过启用插件 VisitorGenerator 来生成虚假数据进行实验）</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://matomo.org/docs/installation/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://matomo.org/docs/installation/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（当使用 Matomo 进行开发时，您需要</font></font><a href="https://matomo.org/faq/how-to-install/faq_18271/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从 Git 存储库安装 Matomo</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">免费试用</font></font></h2><a id="user-content-free-trial" class="anchor" aria-label="永久链接：免费试用" href="#free-trial"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您没有服务器或不想自己托管，您可以使用我们的 Matomo Cloud 合作伙伴服务（21 天免费试用）：</font></font><a href="https://matomo.org/start-free-analytics-trial/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://matomo.org/start-free-analytics-trial/</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在线演示</font></font></h2><a id="user-content-online-demo" class="anchor" aria-label="永久链接：在线演示" href="#online-demo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://demo.matomo.cloud/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在demo.matomo.cloud</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看 Matomo 的在线演示</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更新日志</font></font></h2><a id="user-content-changelog" class="anchor" aria-label="永久链接：变更日志" href="#changelog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关当前和过去版本中已关闭的所有票证的列表，请参阅</font></font><a href="https://matomo.org/changelog/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">matomo.org/changelog/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。 有关 Matomo 平台中的技术变更列表，请参阅</font></font><a href="https://developer.matomo.org/changelog" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">developer.matomo.org/changelog</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">参与其中！</font></font></h2><a id="user-content-get-involved" class="anchor" aria-label="永久链接：参与吧！" href="#get-involved"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们相信解放 Web 分析，为简单和高级分析提供一个免费的平台。Matomo 是由像您这样的数十人创建的，我们需要您的帮助来让 Matomo 变得更好……为什么不今天就参与一个有用的项目呢？</font></font><a href="https://matomo.org/get-involved" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解如何为 Matomo 做出贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">翻译</font></font></h2><a id="user-content-translations" class="anchor" aria-label="固定链接：翻译" href="#translations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://hosted.weblate.org/engage/matomo/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的翻译在Weblate</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上进行管理</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><a href="https://hosted.weblate.org/engage/matomo/" rel="nofollow"><img src="https://camo.githubusercontent.com/4ef53511d89dc00058a698025ab5e3eb836c2a33a19c7e8a944c21e79cee5930/68747470733a2f2f686f737465642e7765626c6174652e6f72672f776964676574732f6d61746f6d6f2f2d2f686f72697a6f6e74616c2d6175746f2e737667" alt="翻译状态" data-canonical-src="https://hosted.weblate.org/widgets/matomo/-/horizontal-auto.svg" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">质量保证</font></font></h2><a id="user-content-quality-assurance" class="anchor" aria-label="永久链接：质量保证" href="#quality-assurance"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Matomo 项目使用一套不断扩展的综合测试集，其中包括数千个单元测试和数百个自动集成测试、系统测试、JavaScript 测试和屏幕截图 UI 测试，这些测试在持续集成服务器上运行，作为其软件质量保证的一部分。</font></font><a href="https://developer.matomo.org/guides/tests" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解更多</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们使用</font></font><a href="https://www.browserstack.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BrowserStack.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试工具来帮助检查 Matomo 用户界面是否与多种浏览器兼容。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全</font></font></h2><a id="user-content-security" class="anchor" aria-label="固定链接：安全" href="#security"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全是 Matomo 的首要任务。一旦发现潜在问题，我们会尽快验证、修补并发布修复程序。我们有一个安全漏洞赏金计划，奖励发现安全问题并向我们披露的研究人员。</font></font></p>
+<p dir="auto"><a href="https://matomo.org/security/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解更多信息</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或查看我们的</font></font><a href="https://hackerone.com/matomo" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HackerOne 计划</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持 Matomo</font></font></h2><a id="user-content-support-for-matomo" class="anchor" aria-label="永久链接：支持 Matomo" href="#support-for-matomo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如需</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">免费支持</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，请在我们的社区论坛上发布消息：</font></font><a href="https://forum.matomo.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">forum.matomo.org</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如需</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">专业付费支持</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，请购买 Matomo 本地支持计划：</font></font><a href="https://matomo.org/support-plans/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">matomo.org/support-plans</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">接触</font></font></h2><a id="user-content-contact" class="anchor" aria-label="永久链接：联系方式" href="#contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站：</font></font><a href="https://matomo.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">matomo.org</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于我们：</font></font><a href="https://matomo.org/team/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">matomo.org/team/</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联系我们：</font></font><a href="https://matomo.org/contact/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">matomo.org/contact/</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多信息</font></font></h2><a id="user-content-more-information" class="anchor" aria-label="永久链接：更多信息" href="#more-information"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Matomo 在竞争中脱颖而出的原因是什么：</font></font></p>
+<ul dir="auto">
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您拥有自己的网络分析数据：由于 Matomo 安装在您的服务器上，因此数据存储在您自己的数据库中，您可以使用强大的 Matomo Analytics API 获取所有统计数据。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Matomo 是一款免费软件，可以轻松配置以尊重访客的隐私。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现代、易于使用的用户界面：您可以完全自定义您的仪表板、拖放小部件等。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Matomo 功能内置于插件中：您可以添加新功能并删除不需要的功能。您可以构建自己的网络分析插件或聘请顾问将您的自定义功能内置于 Matomo 中。</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一个充满活力的国际开放社区，拥有超过 200,000 名活跃用户（跟踪更多网站！）</font></font></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级 Web 分析功能，如电子商务跟踪、目标跟踪、活动跟踪、自定义变量、电子邮件报告、自定义细分编辑器、地理位置、实时访问和地图</font></font><a href="https://matomo.org/feature-overview/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">等等！</font></font></a></p>
+</li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档和更多信息请参阅</font></font><a href="https://matomo.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://matomo.org</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们共同打造世界上最好的开放分析平台！</font></font></p>
+</article></div>
